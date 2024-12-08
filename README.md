@@ -1,2 +1,12 @@
-# Email_Validation
-Python Script to Validate Emails in a Text File
+# <h1 align="center">Email_Validation</h1>
+
+<h3 align="center">Python Script to Validate Emails in a Text File</h3>
+
+<br>
+
+<p align="center">
+
+  <img src = "https://github.com/user-attachments/assets/6688ec11-62d8-49ef-8a04-239f3030f7a7">
+  
+</p>
+
