@@ -1,8 +1,10 @@
 # <h1 align="center">Email_Validation</h1>
 
+---
+
 <h3 align="center">Python Script to Validate Emails in a Text File</h3>
 
-<br>
+---
 
 <p align="center">
 
